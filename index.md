@@ -1,7 +1,8 @@
 <html>
     <head>
         <title>Multi-label classification of retinal disease using convolutional neural networks</title>
-        <h1>MehtA+ AI/ML Research Bootcamp '22 midterm project</h1>
+        <h1>Multi-label classification of retinal disease using convolutional neural networks</h1>
+        <h2>MehtA+ AI/ML Research Bootcamp '22 final project</h2>
         <meta charset="utf-8">
         <link rel="stylesheet" href="style.css">
         <script src="index.js"></script>
