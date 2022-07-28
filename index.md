@@ -9,7 +9,8 @@
     </head>
     <body>
         <h3>View Our Code with ResNet-18!</h3>
-        <script src="https://gist.github.com/ybidochko/fd8de103e3753a109845185b1632962f.js">   
-        </script>
+        <script src="https://gist.github.com/ybidochko/fd8de103e3753a109845185b1632962f.js"></script>
+        <h3>View Our Code with VGG-16</h3>
+        <script src="https://gist.github.com/ybidochko/76c7074e3397061fed572b70afca5de6.js"></script>
     </body> 
 </html>
